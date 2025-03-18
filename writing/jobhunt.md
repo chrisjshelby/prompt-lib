@@ -21,3 +21,8 @@ Attached you will find my resume and below this prompt is a link to a job descri
  ```
 Attached you will find my resume and below this prompt is a link to a job description.  Compare my resume to the job description, let me know if I would be a good candidate for this position.  Also, please provide feedback on areas in-which I lack experience should research that might help me if I am able to land an interview.
  ```
+
+ ## Interview Followup Email
+```
+Below this prompt is a link to a job description.  Craft a after interview email thanking the interviewer for their time. Please include the following as a direct reference to the conversation: [Reference]  
+```

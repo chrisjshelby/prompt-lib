@@ -6,6 +6,7 @@ Feel free to use them as-is, modify them to fit your needs, or just read through
 
 ## Table of Contents
 
+- Coding Prompts (/coding/responses.md)
 - Writing Prompts
     - [Miscellaneous Writing Prompts](/writing/misc.md)
     - [Writing Style Prompts](/writing/style.md)
